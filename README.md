@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi I'm Jules 👋
+
+I graduated from Williams College in 2023 with a double major in computer science and math. Most recently, I spent a year in Spain teaching computer science, among other topics, at a vocational school. Earlier, I finished a batch at the [Recurse Center](https://www.recurse.com/) in summer of 2022 in which I spent time building out the project below that I am revisiting now!
+
+- 🌱 I’m currently learning Typescript!
+- 🔭 I’m currently working on my [connect four](https://github.com/juleswg23/my-first-website) server-client game.
 
 <!--
 **juleswg23/juleswg23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
