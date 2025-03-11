@@ -1,6 +1,6 @@
 ## Hi I'm Jules 👋
 
-I graduated from Williams College in 2023 with a double major in computer science and math. After my undergrad, I spent a year in Spain teaching computer science, among other topics, at a vocational school. Earlier, I engaged in batches at the [Recurse Center](https://www.recurse.com/) in summer of 2022 and fall of 2024 in which I spent time building out a number of projects! Most recently I helped out in the Michigan Dems 2024 campaign, writing some texting scripts and mostly organzing volunteer door-knockers and phone bankers.
+I graduated from Williams College in 2023 with a double major in computer science and math. After my undergraduate education, I spent a year in Spain teaching computer science, among other topics, at a vocational school. Earlier, I engaged in batches at the [Recurse Center](https://www.recurse.com/) in summer of 2022 and fall of 2024 in which I spent time building out a number of projects! Most recently I helped out in the Michigan Dems 2024 campaign, writing some texting scripts and mostly organzing volunteer door-knockers and phone bankers.
 
 Currently I'm working as a software developer for a local high school.
 
