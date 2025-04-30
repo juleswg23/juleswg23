@@ -1,10 +1,10 @@
 ## Hi I'm Jules 👋
 
-I graduated from Williams College in 2023 with a double major in computer science and math. After my undergraduate education, I spent a year in Spain teaching computer science, among other topics, at a vocational school. Earlier, I engaged in batches at the [Recurse Center](https://www.recurse.com/) in summer of 2022 and fall of 2024 in which I spent time building out a number of projects! Most recently I helped out in the Michigan Dems 2024 campaign, writing some texting scripts and mostly organzing volunteer door-knockers and phone bankers.
+I graduated from Williams College in 2023 with a double major in computer science and math. After my undergraduate education, I spent a year in Spain teaching computer science, among other topics, at a vocational school. I've also had the good fortune to join batches at the [Recurse Center](https://www.recurse.com/) in summer of 2022 and fall of 2024 in which I spent time building out a number of projects! Most recently I helped out in the Michigan Dems 2024 campaign, writing some texting scripts and mostly organzing volunteer door-knockers and phone bankers.
 
 Currently I'm working as a software developer for a local high school.
 
-- 🌱 I’m currently learning about and working on a React/NextJS project!
+- 🌱 My role now involves a full-stack React/NextJS project deployed on Vercel!
 - 🔭 It's backed by a Postgresql database, a Prisma ORM, and vanilla CSS styling.
 - 🌱 I’m also currently learning how to toy around with R Shiny apps, one of which can be found [here](https://jules-dev.shinyapps.io/analyzingdanieldata/).
 - 👯 I spend my free time rock climbing, playing soccer and table tennis, and volunteering at a weekly legal clinic.
